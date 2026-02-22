@@ -1,0 +1,20 @@
+# Exclude from release packages
+/.git
+/.github
+/.vscode
+/.idea
+/.agent
+/node_modules
+/vendor
+/tests
+*.code-workspace
+*.psd
+*.sketch
+*.zip
+*.log
+.gitignore
+.distignore
+composer.*
+package*.json
+webpack.config.js
+gulpfile.js

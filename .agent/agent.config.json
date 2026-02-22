@@ -1,0 +1,5 @@
+{
+    "agentName": "SSLCommerzGatewayAgent",
+    "role": "Payment Gateway Integration",
+    "collaborationProtocol": "REST"
+}

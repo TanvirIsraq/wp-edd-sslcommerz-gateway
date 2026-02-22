@@ -1,0 +1,51 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+wp-content/languages/
+
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Workspace
+*.code-workspace
+.vscode/
+
+# Archives
+*.zip
+*.tar.gz
+
+# Agent-specific
+# .agent/ is now allowed
+brain/
+task.md
+implementation_plan.md
+ARCHITECTURE.md
+SUBMISSION_GUIDE.md
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Build artifacts
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Log files
+logs/
+
+# OS-specific files
+*.swp
+*~
